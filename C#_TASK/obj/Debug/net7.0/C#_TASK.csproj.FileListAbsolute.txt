@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\C#_TASK.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\C#_TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\C#_TASK.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\C#_TASK.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\C#_TASK.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\bin\Debug\net7.0\C#_TASK.exe
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\bin\Debug\net7.0\C#_TASK.deps.json
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\bin\Debug\net7.0\C#_TASK.runtimeconfig.json
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\bin\Debug\net7.0\C#_TASK.dll
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\bin\Debug\net7.0\C#_TASK.pdb
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\C#_TASK.dll
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\refint\C#_TASK.dll
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\C#_TASK.pdb
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\C#_TASK.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\GB_MainBlockHomework\C#_TASK\obj\Debug\net7.0\ref\C#_TASK.dll
